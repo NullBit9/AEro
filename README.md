@@ -1,6 +1,6 @@
 <div align="center">
 
-# GUST, by [Nautilus Labs](https://github.com/nautilus-os)
+# Æro by Solarion
 
 ![version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
